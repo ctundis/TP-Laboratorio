@@ -7,11 +7,10 @@ Tecnicatura Universitaria en Gestión y Análisis de Datos en Organizaciones · 
 
 ## Integrantes
 
-| Nombre completo | N.º de registro | GitHub |
-|----------------|-----------------|--------|
-| (completar)    | (completar)     | @...   |
-| (completar)    | (completar)     | @...   |
-| (completar)    | (completar)     | @...   |
+| Nombre completo | N.º de registro |  GitHub  |
+|-----------------|-----------------|----------|
+| Chiara Tundis   | 921264          | @ctundis |
+
 
 ---
 
@@ -40,7 +39,7 @@ Tecnicatura Universitaria en Gestión y Análisis de Datos en Organizaciones · 
 
 ## Pregunta de investigación
 
-> *(Completar al finalizar el análisis)*
+> *¿existe relación entre el nivel educativo de la madre y la natalidad adolescente por provincia en Argentina durante 2024?*
 
 ---
 
@@ -52,36 +51,7 @@ Tecnicatura Universitaria en Gestión y Análisis de Datos en Organizaciones · 
 ├── descnac.xlsx                          # Diccionario de datos
 ├── notebook.ipynb                        # Análisis en Python (Google Colab)
 ├── informe.pdf                           # Informe académico
-├── presentacion/                         # Diapositivas (PDF o link)
+├── presentacion/                         # Diapositivas (PDF)
 └── README.md
 ```
-
 ---
-
-## Cómo ejecutar el notebook
-
-1. Abrir [Google Colab](https://colab.research.google.com/) e importar `notebook.ipynb` desde el repositorio.
-2. Subir los archivos `datos_sobre_nacidos_vivos_2024.csv` y `descnac.xlsx` al entorno de Colab.
-3. Ejecutar todas las celdas en orden (*Runtime → Run all*).
-
----
-
-## Entregables
-
-| Parte | Entregable | Estado |
-|-------|-----------|--------|
-| 1 — Análisis Python | `notebook.ipynb` ejecutado | ⬜ |
-| 2 — Informe académico | `informe.pdf` | ⬜ |
-| 3 — Presentación IA | Link: *(completar)* | ⬜ |
-
----
-
-## Links
-
-- 📊 Presentación: *(completar)*
-- 📄 Informe Overleaf: *(completar, si aplica)*
-- 🌐 Sitio web / Video: *(completar, si aplica)*
-
----
-
-*Entrega: jueves 11 de junio de 2026 — 19:00 h*
